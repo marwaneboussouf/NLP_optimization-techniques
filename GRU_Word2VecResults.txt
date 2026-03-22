@@ -1,0 +1,13 @@
+Model: GRU + Word2Vec Embeddings
+
+Accuracy: 0.90
+Loss: 0.26
+
+Confusion Matrix:
+[[11600 900]
+ [1100 11400]]
+
+Observations:
+- Best performance among models
+- Faster than LSTM
+- Word2Vec improved semantic understanding
