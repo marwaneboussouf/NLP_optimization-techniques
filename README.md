@@ -124,6 +124,15 @@ all_model_results.csv
 | Performance | Limited | Improved |
 
 ---
+##  Model Comparison
+
+| Model | Accuracy |
+|------|--------|
+| CNN | 0.87 |
+| LSTM | 0.89 |
+| GRU + Word2Vec | 0.90 |
+
+Best model: **GRU with Word2Vec embeddings**
 
 ##  How to Run
 
