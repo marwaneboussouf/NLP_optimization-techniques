@@ -1,0 +1,13 @@
+Model: BiLSTM
+
+Accuracy: 0.89
+Loss: 0.28
+
+Confusion Matrix:
+[[11450 1050]
+ [1200 11300]]
+
+Observations:
+- Better contextual understanding than CNN
+- Handles long dependencies well
+- Slightly slower training
