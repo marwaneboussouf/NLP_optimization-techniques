@@ -1,0 +1,13 @@
+Model: 1D CNN
+
+Accuracy: 0.87
+Loss: 0.32
+
+Confusion Matrix:
+[[11234 1266]
+ [1450 11050]]
+
+Observations:
+- Fast convergence
+- Good at capturing local patterns
+- Slight overfitting controlled with dropout
